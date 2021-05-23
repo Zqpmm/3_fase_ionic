@@ -1,0 +1,8 @@
+{
+  "name": "sftw",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "151894df"
+}
