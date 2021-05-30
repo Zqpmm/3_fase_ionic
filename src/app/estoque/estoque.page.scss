@@ -1,0 +1,48 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+@import '@angular/material/prebuilt-themes/indigo-pink.css';
+
+@media only screen and (max-width: 700px) {.navbar{
+    width: 100%;
+}}
+.sair-imagem{
+    height: 40px;  
+    background-position: left;
+    margin-left: 1250px;
+}
+
+@media only screen and (max-width: 700px) {.sair-imagem{margin-left: 2%; height: 30px;}}
+
+.sair{
+    position: absolute;
+}
+
+.botao{
+    margin-top: 7%;
+    margin-left: 80%;
+}
+@media only screen and (max-width: 700px) {.botao{margin-left: 65%;}}
+
+button{
+    color: #2B5632;
+}
+
+table{
+    width: 100%;
+    margin-left: 0%;
+}
+
+th{
+    color: black;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.main-container {
+    position: fixed;
+    height: 2%;
+    width: 100%;
+    margin-top: 8.4%;
+    background-color: #C61F1F;
+}
+
+@media only screen and (max-width: 700px) {.main-container {margin-top: 32%;}}

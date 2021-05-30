@@ -1,7 +1,9 @@
 {
   "name": "sftw",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {
+      "enabled": false
+    }
   },
   "type": "angular",
   "id": "151894df"
